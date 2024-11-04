@@ -1,5 +1,6 @@
 {
   "name": "pirate-ship-rules",
+  "homepage": "https://tsraveling.github.io/pirate-ship-rules",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
