@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pirate-ship-rules/static/css/main.92daead0.css",
-    "main.js": "/pirate-ship-rules/static/js/main.8f3406d8.js",
+    "main.css": "/pirate-ship-rules/static/css/main.b0b9c951.css",
+    "main.js": "/pirate-ship-rules/static/js/main.18b633cb.js",
     "static/js/453.86a1c080.chunk.js": "/pirate-ship-rules/static/js/453.86a1c080.chunk.js",
     "index.html": "/pirate-ship-rules/index.html",
-    "main.92daead0.css.map": "/pirate-ship-rules/static/css/main.92daead0.css.map",
-    "main.8f3406d8.js.map": "/pirate-ship-rules/static/js/main.8f3406d8.js.map",
+    "main.b0b9c951.css.map": "/pirate-ship-rules/static/css/main.b0b9c951.css.map",
+    "main.18b633cb.js.map": "/pirate-ship-rules/static/js/main.18b633cb.js.map",
     "453.86a1c080.chunk.js.map": "/pirate-ship-rules/static/js/453.86a1c080.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92daead0.css",
-    "static/js/main.8f3406d8.js"
+    "static/css/main.b0b9c951.css",
+    "static/js/main.18b633cb.js"
   ]
 }
