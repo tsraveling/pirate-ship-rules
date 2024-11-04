@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2c041ad.css",
-    "main.js": "/static/js/main.3495d328.js",
-    "static/js/453.86a1c080.chunk.js": "/static/js/453.86a1c080.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.a2c041ad.css.map": "/static/css/main.a2c041ad.css.map",
-    "main.3495d328.js.map": "/static/js/main.3495d328.js.map",
-    "453.86a1c080.chunk.js.map": "/static/js/453.86a1c080.chunk.js.map"
+    "main.css": "/pirate-ship-rules/static/css/main.a2c041ad.css",
+    "main.js": "/pirate-ship-rules/static/js/main.0ea7a0db.js",
+    "static/js/453.86a1c080.chunk.js": "/pirate-ship-rules/static/js/453.86a1c080.chunk.js",
+    "static/media/logo.svg": "/pirate-ship-rules/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pirate-ship-rules/index.html",
+    "main.a2c041ad.css.map": "/pirate-ship-rules/static/css/main.a2c041ad.css.map",
+    "main.0ea7a0db.js.map": "/pirate-ship-rules/static/js/main.0ea7a0db.js.map",
+    "453.86a1c080.chunk.js.map": "/pirate-ship-rules/static/js/453.86a1c080.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2c041ad.css",
-    "static/js/main.3495d328.js"
+    "static/js/main.0ea7a0db.js"
   ]
 }
